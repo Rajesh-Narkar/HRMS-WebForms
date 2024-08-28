@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\testwebapplication1\\generateofferletter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\generateofferletter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\testwebapplication1\\generateofferletter.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\generateofferletter.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|c:\\users\\rajesh narkar\\source\\repos\\testwebapplication1\\testwebapplication1\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\testwebapplication1\\generatepayslip.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\generatepayslip.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\testwebapplication1\\newloginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\newloginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\testwebapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\testwebapplication1\\adminviewtickets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\adminviewtickets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\testwebapplication1\\adminviewtickets.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\adminviewtickets.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\testwebapplication1\\leavestatus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\leavestatus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\testwebapplication1\\empofferletter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\empofferletter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\testwebapplication1\\emppayslip.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\emppayslip.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\testwebapplication1\\raiseticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94F34A55-6EFF-44FA-9152-C18C1E3B8A1B}|TestWebApplication1\\TestWebApplication1.csproj|solutionrelative:testwebapplication1\\raiseticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "TestWebApplication1\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\LoginPage.aspx",
+              "RelativeToolTip": "TestWebApplication1\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-24T14:55:51.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewLoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\NewLoginPage.aspx",
+              "RelativeDocumentMoniker": "TestWebApplication1\\NewLoginPage.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\NewLoginPage.aspx",
+              "RelativeToolTip": "TestWebApplication1\\NewLoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-24T15:24:16.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerateOfferLetter.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\GenerateOfferLetter.aspx",
+              "RelativeDocumentMoniker": "TestWebApplication1\\GenerateOfferLetter.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\GenerateOfferLetter.aspx",
+              "RelativeToolTip": "TestWebApplication1\\GenerateOfferLetter.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-24T18:20:08.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerateOfferLetter.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\GenerateOfferLetter.aspx.cs",
+              "RelativeDocumentMoniker": "TestWebApplication1\\GenerateOfferLetter.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\GenerateOfferLetter.aspx.cs",
+              "RelativeToolTip": "TestWebApplication1\\GenerateOfferLetter.aspx.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAgwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:31:31.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneratePaySlip.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\GeneratePaySlip.aspx.cs",
+              "RelativeDocumentMoniker": "TestWebApplication1\\GeneratePaySlip.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\GeneratePaySlip.aspx.cs",
+              "RelativeToolTip": "TestWebApplication1\\GeneratePaySlip.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:32:56.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminViewTickets.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\AdminViewTickets.aspx.cs",
+              "RelativeDocumentMoniker": "TestWebApplication1\\AdminViewTickets.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\AdminViewTickets.aspx.cs",
+              "RelativeToolTip": "TestWebApplication1\\AdminViewTickets.aspx.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:33:52.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminViewTickets.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\AdminViewTickets.aspx",
+              "RelativeDocumentMoniker": "TestWebApplication1\\AdminViewTickets.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\AdminViewTickets.aspx",
+              "RelativeToolTip": "TestWebApplication1\\AdminViewTickets.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T04:33:19.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveStatus.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\LeaveStatus.aspx",
+              "RelativeDocumentMoniker": "TestWebApplication1\\LeaveStatus.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\LeaveStatus.aspx",
+              "RelativeToolTip": "TestWebApplication1\\LeaveStatus.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T04:19:21.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpOfferLetter.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\EmpOfferLetter.aspx",
+              "RelativeDocumentMoniker": "TestWebApplication1\\EmpOfferLetter.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\EmpOfferLetter.aspx",
+              "RelativeToolTip": "TestWebApplication1\\EmpOfferLetter.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T04:18:24.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "TestWebApplication1\\Web.config",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\Web.config",
+              "RelativeToolTip": "TestWebApplication1\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-17T04:00:18.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmpPaySlip.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\EmpPaySlip.aspx",
+              "RelativeDocumentMoniker": "TestWebApplication1\\EmpPaySlip.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\EmpPaySlip.aspx",
+              "RelativeToolTip": "TestWebApplication1\\EmpPaySlip.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T04:17:42.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RaiseTicket.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\RaiseTicket.aspx",
+              "RelativeDocumentMoniker": "TestWebApplication1\\RaiseTicket.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\TestWebApplication1\\TestWebApplication1\\RaiseTicket.aspx",
+              "RelativeToolTip": "TestWebApplication1\\RaiseTicket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-12T17:20:12.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
